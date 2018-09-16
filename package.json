@@ -3,6 +3,7 @@
     "description": "The backend of dialect appliaction",
     "version": "0.0.1",
     "dependencies": {
-        "koa": "latest"
+        "express": "latest",
+        "mysql2": "latest"
     }
 }
